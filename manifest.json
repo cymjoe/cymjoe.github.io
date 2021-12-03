@@ -1,11 +1,11 @@
 {
-    "name": "jojo_live_flutter",
-    "short_name": "jojo_live_flutter",
+    "name": "baby_birthday",
+    "short_name": "baby_birthday",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "jojo flutter 版本",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
